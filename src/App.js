@@ -3,6 +3,7 @@ import About from "./components/About";
 import CalculateScore from "./components/CalculateScore";
 import Contact from "./components/Contact";
 import Home from "./components/Home";
+import Posts from "./components/Posts";
 
 function App() {
   return (
@@ -11,12 +12,13 @@ function App() {
       {/* <Home />
       <Contact />
       <About /> */}
-      <CalculateScore
+      {/* <CalculateScore
         Name={"Steeve"}
         School={"DNV Public School"}
         total={284}
         goal={3}
-      />
+      /> */}
+      <Posts />
     </div>
   );
 }
