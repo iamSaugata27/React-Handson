@@ -2,6 +2,7 @@ import "./App.css";
 import About from "./components/About";
 import CalculateScore from "./components/CalculateScore";
 import Contact from "./components/Contact";
+import CountPeople from "./components/CountPeople";
 import Home from "./components/Home";
 import OnlineShopping from "./components/OnlineShopping";
 import Posts from "./components/Posts";
@@ -25,7 +26,9 @@ function App() {
       {/* 4th Handson */}
       {/* <Posts /> */}
       {/* 7th Handson */}
-      <OnlineShopping />
+      {/* <OnlineShopping /> */}
+      {/* 8th Handson */}
+      <CountPeople />
     </div>
   );
 }
