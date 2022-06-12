@@ -5,6 +5,7 @@ import Contact from "./components/Contact";
 import CountPeople from "./components/CountPeople";
 import Home from "./components/Home";
 import OnlineShopping from "./components/OnlineShopping";
+import Players from "./components/Players";
 import Posts from "./components/Posts";
 
 function App() {
@@ -28,7 +29,9 @@ function App() {
       {/* 7th Handson */}
       {/* <OnlineShopping /> */}
       {/* 8th Handson */}
-      <CountPeople />
+      {/* <CountPeople /> */}
+      {/* 9th Handson */}
+      <Players />
     </div>
   );
 }
