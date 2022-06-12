@@ -3,6 +3,7 @@ import About from "./components/About";
 import CalculateScore from "./components/CalculateScore";
 import Contact from "./components/Contact";
 import CountPeople from "./components/CountPeople";
+import Eventexamplesapp from "./components/Eventexamplesapp";
 import Home from "./components/Home";
 import Officespacerentalapp from "./components/Officespacerentalapp";
 import OnlineShopping from "./components/OnlineShopping";
@@ -34,7 +35,9 @@ function App() {
       {/* 9th Handson */}
       {/* <Players /> */}
       {/* 10th Handson */}
-      <Officespacerentalapp />
+      {/* <Officespacerentalapp /> */}
+      {/* 11th Handson */}
+      <Eventexamplesapp />
     </div>
   );
 }
