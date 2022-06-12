@@ -4,6 +4,7 @@ import CalculateScore from "./components/CalculateScore";
 import Contact from "./components/Contact";
 import CountPeople from "./components/CountPeople";
 import Home from "./components/Home";
+import Officespacerentalapp from "./components/Officespacerentalapp";
 import OnlineShopping from "./components/OnlineShopping";
 import Players from "./components/Players";
 import Posts from "./components/Posts";
@@ -31,7 +32,9 @@ function App() {
       {/* 8th Handson */}
       {/* <CountPeople /> */}
       {/* 9th Handson */}
-      <Players />
+      {/* <Players /> */}
+      {/* 10th Handson */}
+      <Officespacerentalapp />
     </div>
   );
 }
