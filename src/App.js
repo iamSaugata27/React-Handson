@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./components/About";
+import Bloggerapp from "./components/Bloggerapp";
 import CalculateScore from "./components/CalculateScore";
 import Contact from "./components/Contact";
 import CountPeople from "./components/CountPeople";
@@ -40,7 +41,9 @@ function App() {
       {/* 11th Handson */}
       {/* <Eventexamplesapp /> */}
       {/* 12th Handson */}
-      <Ticketbookingapp />
+      {/* <Ticketbookingapp /> */}
+      {/* 13th Handson */}
+      <Bloggerapp />
     </div>
   );
 }
